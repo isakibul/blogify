@@ -1,7 +1,0 @@
-[
-{"op": "replace", "path": "/name", "value": "Jane Smith"},
-{"op": "add", "path": "/gender", "value": "female"},
-{"op": "remove", "path": "/address/city"},
-{"op": "move", "from": "/sourcePath", "path": "/destinationPath"},
-{"op": "copy", "from": "/sourcePath", "path": "/destinationPath"}
-]
